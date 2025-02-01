@@ -1,0 +1,1 @@
+//component tests for quiz component
