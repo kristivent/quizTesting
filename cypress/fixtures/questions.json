@@ -1,0 +1,52 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "choices": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "choices": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "choices": ["H2O", "O2", "CO2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "choices": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "answer": "Harper Lee"
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "choices": ["Jane Austen", "William Shakespeare", "Harper Lee", "Emily Bronte"],
+      "answer": "299,792 km/s"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "choices": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "choices": ["Tomato", "Onion", "Avocado", "Pepper"],
+      "answer": "Avocado"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "choices": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "choices": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "answer": "Leonardo da Vinci"
+    }
+  ]
