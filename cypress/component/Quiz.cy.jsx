@@ -1,6 +1,5 @@
 //component tests for quiz component
 
-import React from 'react';
 import { mount } from 'cypress/react';
 import Quiz from '../../client/src/components/Quiz';
 
