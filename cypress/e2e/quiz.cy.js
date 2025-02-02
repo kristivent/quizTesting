@@ -3,6 +3,7 @@
 describe('Tech Quiz', () => {
     beforeEach(() => {
       cy.visit('/');
+      cy.wait(2000); //added wait for app to load
     });
   
     it('should start the quiz when the start button is clicked', () => {
